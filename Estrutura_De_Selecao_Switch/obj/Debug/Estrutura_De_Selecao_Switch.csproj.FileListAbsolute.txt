@@ -1,0 +1,6 @@
+D:\Desenv\solucoes_revisadas\2013\CursoParaYoutubeCSharp\Estrutura_De_Selecao_Switch\obj\Debug\Estrutura_De_Selecao_Switch.csprojResolveAssemblyReference.cache
+D:\Desenv\solucoes_revisadas\2013\CursoParaYoutubeCSharp\Estrutura_De_Selecao_Switch\bin\Debug\Estrutura_De_Selecao_Switch.exe.config
+D:\Desenv\solucoes_revisadas\2013\CursoParaYoutubeCSharp\Estrutura_De_Selecao_Switch\bin\Debug\Estrutura_De_Selecao_Switch.exe
+D:\Desenv\solucoes_revisadas\2013\CursoParaYoutubeCSharp\Estrutura_De_Selecao_Switch\bin\Debug\Estrutura_De_Selecao_Switch.pdb
+D:\Desenv\solucoes_revisadas\2013\CursoParaYoutubeCSharp\Estrutura_De_Selecao_Switch\obj\Debug\Estrutura_De_Selecao_Switch.exe
+D:\Desenv\solucoes_revisadas\2013\CursoParaYoutubeCSharp\Estrutura_De_Selecao_Switch\obj\Debug\Estrutura_De_Selecao_Switch.pdb

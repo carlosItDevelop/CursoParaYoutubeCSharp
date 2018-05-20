@@ -1,0 +1,6 @@
+D:\Desenv\solucoes_revisadas\2013\CursoParaYoutubeCSharp\Laco_For\obj\Debug\Laco_For.csprojResolveAssemblyReference.cache
+D:\Desenv\solucoes_revisadas\2013\CursoParaYoutubeCSharp\Laco_For\bin\Debug\Laco_For.exe.config
+D:\Desenv\solucoes_revisadas\2013\CursoParaYoutubeCSharp\Laco_For\bin\Debug\Laco_For.exe
+D:\Desenv\solucoes_revisadas\2013\CursoParaYoutubeCSharp\Laco_For\bin\Debug\Laco_For.pdb
+D:\Desenv\solucoes_revisadas\2013\CursoParaYoutubeCSharp\Laco_For\obj\Debug\Laco_For.exe
+D:\Desenv\solucoes_revisadas\2013\CursoParaYoutubeCSharp\Laco_For\obj\Debug\Laco_For.pdb

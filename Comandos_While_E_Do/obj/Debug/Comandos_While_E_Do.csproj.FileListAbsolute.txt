@@ -1,0 +1,6 @@
+D:\Desenv\solucoes_revisadas\2013\CursoParaYoutubeCSharp\Comandos_While_E_Do\bin\Debug\Comandos_While_E_Do.exe.config
+D:\Desenv\solucoes_revisadas\2013\CursoParaYoutubeCSharp\Comandos_While_E_Do\obj\Debug\Comandos_While_E_Do.csprojResolveAssemblyReference.cache
+D:\Desenv\solucoes_revisadas\2013\CursoParaYoutubeCSharp\Comandos_While_E_Do\bin\Debug\Comandos_While_E_Do.exe
+D:\Desenv\solucoes_revisadas\2013\CursoParaYoutubeCSharp\Comandos_While_E_Do\bin\Debug\Comandos_While_E_Do.pdb
+D:\Desenv\solucoes_revisadas\2013\CursoParaYoutubeCSharp\Comandos_While_E_Do\obj\Debug\Comandos_While_E_Do.exe
+D:\Desenv\solucoes_revisadas\2013\CursoParaYoutubeCSharp\Comandos_While_E_Do\obj\Debug\Comandos_While_E_Do.pdb

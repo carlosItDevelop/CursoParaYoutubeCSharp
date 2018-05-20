@@ -1,0 +1,3 @@
+D:\Desenv\solucoes_revisadas\2013\CursoParaYoutubeCSharp\Laco_For_II\bin\Debug\Laco_For_II.exe.config
+D:\Desenv\solucoes_revisadas\2013\CursoParaYoutubeCSharp\Laco_For_II\obj\Debug\Laco_For_II.exe
+D:\Desenv\solucoes_revisadas\2013\CursoParaYoutubeCSharp\Laco_For_II\obj\Debug\Laco_For_II.pdb

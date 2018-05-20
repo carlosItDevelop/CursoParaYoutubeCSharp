@@ -1,0 +1,6 @@
+D:\Desenv\solucoes_revisadas\2013\CursoParaYoutubeCSharp\heranca\obj\Debug\heranca.csprojResolveAssemblyReference.cache
+D:\Desenv\solucoes_revisadas\2013\CursoParaYoutubeCSharp\heranca\bin\Debug\heranca.exe.config
+D:\Desenv\solucoes_revisadas\2013\CursoParaYoutubeCSharp\heranca\bin\Debug\heranca.exe
+D:\Desenv\solucoes_revisadas\2013\CursoParaYoutubeCSharp\heranca\bin\Debug\heranca.pdb
+D:\Desenv\solucoes_revisadas\2013\CursoParaYoutubeCSharp\heranca\obj\Debug\heranca.exe
+D:\Desenv\solucoes_revisadas\2013\CursoParaYoutubeCSharp\heranca\obj\Debug\heranca.pdb

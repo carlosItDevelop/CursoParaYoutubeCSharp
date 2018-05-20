@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops_de_Repeticoes_While_E_Do", "Comandos_While_E_Do\Loops_de_Repeticoes_While_E_Do.csproj", "{009C09F4-1213-4174-AA2C-A3C9AD2F1F08}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{52C8E8B4-6EFF-49B3-A01D-B3B6CAAFBD05}"
+	ProjectSection(SolutionItems) = preProject
+		Comandos_While_E_Do\Docs\Codicional_If.cs = Comandos_While_E_Do\Docs\Codicional_If.cs
+		Comandos_While_E_Do\Docs\Condicional_if_II.cs = Comandos_While_E_Do\Docs\Condicional_if_II.cs
+		Comandos_While_E_Do\Docs\Estrutura_De_Selecao_Switch.cs = Comandos_While_E_Do\Docs\Estrutura_De_Selecao_Switch.cs
+		Comandos_While_E_Do\Docs\Laco_For.cs = Comandos_While_E_Do\Docs\Laco_For.cs
+		Comandos_While_E_Do\Docs\Loops_de_Repeticoes_While_E_Do.cs = Comandos_While_E_Do\Docs\Loops_de_Repeticoes_While_E_Do.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codicional_If", "Codicional_If\Codicional_If.csproj", "{086E0093-EBFF-4833-A20B-D820DF155A0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura_De_Selecao_Switch", "Estrutura_De_Selecao_Switch\Estrutura_De_Selecao_Switch.csproj", "{E8664CFC-C1D5-4B29-8A06-B2857249900D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laco_For", "Laco_For\Laco_For.csproj", "{4B624D84-5B80-4F89-B231-0A81E13C84B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condicional_IF_II", "Laco_For_II\Condicional_IF_II.csproj", "{438125C7-3837-4EA2-A2A3-971CEDFD202F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "heranca", "heranca\heranca.csproj", "{E110AF11-A716-4199-9444-CD16A118950C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{009C09F4-1213-4174-AA2C-A3C9AD2F1F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009C09F4-1213-4174-AA2C-A3C9AD2F1F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009C09F4-1213-4174-AA2C-A3C9AD2F1F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009C09F4-1213-4174-AA2C-A3C9AD2F1F08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{086E0093-EBFF-4833-A20B-D820DF155A0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{086E0093-EBFF-4833-A20B-D820DF155A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{086E0093-EBFF-4833-A20B-D820DF155A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{086E0093-EBFF-4833-A20B-D820DF155A0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8664CFC-C1D5-4B29-8A06-B2857249900D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8664CFC-C1D5-4B29-8A06-B2857249900D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8664CFC-C1D5-4B29-8A06-B2857249900D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8664CFC-C1D5-4B29-8A06-B2857249900D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B624D84-5B80-4F89-B231-0A81E13C84B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B624D84-5B80-4F89-B231-0A81E13C84B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B624D84-5B80-4F89-B231-0A81E13C84B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B624D84-5B80-4F89-B231-0A81E13C84B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{438125C7-3837-4EA2-A2A3-971CEDFD202F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438125C7-3837-4EA2-A2A3-971CEDFD202F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438125C7-3837-4EA2-A2A3-971CEDFD202F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438125C7-3837-4EA2-A2A3-971CEDFD202F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E110AF11-A716-4199-9444-CD16A118950C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E110AF11-A716-4199-9444-CD16A118950C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E110AF11-A716-4199-9444-CD16A118950C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E110AF11-A716-4199-9444-CD16A118950C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
